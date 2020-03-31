@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>Yossi Shmoel</authors>
+    <owners>$author$</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">MIT</license>
+    <description>$description$</description>
+    <releaseNotes>GrowCherry Models Contract</releaseNotes>
+    <copyright>Copyright 2020</copyright>
+    <tags>Models</tags>
+  </metadata>
+</package>
